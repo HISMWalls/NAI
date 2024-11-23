@@ -1,0 +1,5 @@
+#Ignore these Files: 
+# ./File.ps1
+
+#Ignore These Folders: 
+# ./Folder/
